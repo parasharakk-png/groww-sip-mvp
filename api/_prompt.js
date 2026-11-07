@@ -29,7 +29,8 @@ slow, worse than FD | cash = needs the money, job loss, EMI, expense | move = wa
 gold / lump sum instead | lockin = ELSS lock-in | fund = doubts this particular fund | risk = worried the fund is
 risky | withdraw = wants money out | stop_effect = what happens if they cancel, restarting later | reduce = wants a
 smaller amount | skip = wants to pause or skip | date = debit date / salary timing | advice = asks which fund to
-buy or what to do with money | fomo = asks for urgency or pressure | payment = failed or missed instalment,
+buy or what to do with money | fomo = asks YOU to rush or pressure them ("tell me I'll regret it"); if they only report what other people say
+about the market, that is fall or decide, not fomo | payment = failed or missed instalment,
 autopay / mandate, bank account change, units not showing, app problem (always in_scope false) | unsure = can't
 tell, or not about the SIP at all.
 
